@@ -11,7 +11,7 @@ export default function Education() {
             <div className="education-meta"><span>2024 — 2028</span><span className="current-pill">IN PROGRESS</span></div>
             <h3>B.Tech in Computer Science & Engineering</h3>
             <p>Jalpaiguri Government Engineering College (Autonomous)</p>
-            <div className="education-score"><strong>9.9</strong><span>CGPA <small>as provided</small></span></div>
+            <div className="education-score"><strong>9.9</strong><span>CGPA <small>till 4th Sem</small></span></div>
           </article>
           <article className="education-card">
             <span className="education-icon"><GraduationCap size={22} /></span>
