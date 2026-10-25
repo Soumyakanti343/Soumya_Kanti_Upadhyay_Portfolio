@@ -28,7 +28,7 @@ export default function Hero() {
           <div className="orbit orbit-two"></div>
           <div className="hero-glow"></div>
           <div className="profile-card">
-            <div className="profile-top"><span>PROFILE / 001</span><span className="profile-live"><i /> AVAILABLE</span></div>
+            <div className="profile-top"><span>PROFILE </span><span className="profile-live"><i /> AVAILABLE</span></div>
             <div className="profile-image-wrap">
               <img src="/images/profile.png" alt="Soumya Kanti Upadhyay" onError={(e) => { e.currentTarget.style.display = 'none'; e.currentTarget.nextElementSibling.style.display = 'grid'; }} />
               <div className="profile-fallback">SKU<span>AI / ML</span></div>
