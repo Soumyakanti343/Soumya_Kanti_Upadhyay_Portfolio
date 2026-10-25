@@ -2,7 +2,7 @@ import { ArrowUpRight, Code2, Trophy, Target } from 'lucide-react';
 
 const profiles = [
   { name: 'LeetCode', handle: 'SoumyaKanti16', rating: '2087', label: 'Max rating · Knight', solved: '1,000+', href: 'https://leetcode.com/u/SoumyaKanti16/', mark: 'LC' },
-  { name: 'CodeChef', handle: 'soumyakanti16', rating: '1654', label: 'Max rating ·  ⭐⭐⭐', solved: '300+', href: 'https://www.codechef.com/users/soumyakanti16', mark: 'CC' },
+  { name: 'CodeChef', handle: 'soumyakanti16', rating: '1667', label: 'Max rating ·  ⭐⭐⭐', solved: '300+', href: 'https://www.codechef.com/users/soumyakanti16', mark: 'CC' },
   { name: 'Codeforces', handle: 'upadhyaysoumyakanti', rating: '1182', label: 'Max rating · Pupil', solved: '100+', href: 'https://codeforces.com/profile/upadhyaysoumyakanti', mark: 'CF' }
 ];
 
