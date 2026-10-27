@@ -295,3 +295,14 @@ justify-content: space-between;
 margin-bottom: 20px;
 }
 
+
+/* Profile image hover effect */
+
+.profile-image-wrap img {
+transition: transform 0.3s ease;
+}
+
+.profile-image-wrap img:hover {
+transform: scale(1.05);
+}
+
