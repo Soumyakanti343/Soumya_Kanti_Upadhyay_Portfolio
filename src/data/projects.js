@@ -4,7 +4,7 @@ export const projects = [
     subtitle: 'AI-Powered Attendance System',
     description: 'A smart attendance platform that brings face recognition and voice-based features together to make classroom attendance more convenient.',
     features: ['Face-recognition attendance', 'Voice and audio processing', 'Teacher-focused workflow'],
-    stack: ['Python', 'Streamlit', 'Dlib', 'Resemblyzer', 'Librosa', 'Scikit-learn', 'Supabase', 'Flask'],
+    stack: ['Python', 'Pandas', 'Streamlit', 'Dlib', 'Resemblyzer', 'Librosa', 'Scikit-learn', 'Supabase', 'Flask'],
     demo: 'https://snapclassfrontend-two.vercel.app/',
     image: '/images/snapclass.png',
     icon: 'scan'
