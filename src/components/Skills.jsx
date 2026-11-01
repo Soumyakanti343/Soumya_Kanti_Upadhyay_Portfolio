@@ -4,7 +4,7 @@ const groups = [
   { icon: Braces, title: 'Languages', note: 'Core programming', items: ['C', 'C++', 'Python', 'Java', 'JavaScript', 'HTML', 'CSS', 'SQL'] },
   { icon: BrainCircuit, title: 'AI / ML', note: 'Model building & analysis', items: ['NumPy', 'Pandas', 'Matplotlib', 'Seaborn', 'Scikit-learn', 'PyTorch'] },
   { icon: Database, title: 'Frameworks & data', note: 'Building applications', items: ['Flask', 'Streamlit', 'React', 'MySQL', 'SQLite'] },
-  { icon: Wrench, title: 'Tools & fundamentals', note: 'Everyday toolkit', items: ['VS Code', 'Jupyter Notebook', 'PyCharm', 'GitHub', 'DSA', 'OOP', 'DBMS', 'Operating Systems'] }
+  { icon: Wrench, title: 'Tools & fundamentals', note: 'Tools & core concepts', items: ['VS Code', 'Jupyter Notebook', 'PyCharm', 'GitHub', 'DSA', 'OOP', 'DBMS', 'Operating Systems'] }
 ];
 
 export default function Skills() {
@@ -13,7 +13,7 @@ export default function Skills() {
       <div className="container">
         <div className="section-heading section-heading-row">
           <div><p className="section-kicker">02 / TOOLKIT</p><h2>Skills I work <span>with.</span></h2></div>
-          <p className="section-side-note">A growing toolkit, built through coursework,<br />experiments, and hands-on projects.</p>
+          <p className="section-side-note">The skills I’m building through continuous learning,</p><br />practice, and hands-on projects.</p>
         </div>
         <div className="skills-grid">
           {groups.map(({ icon: Icon, title, note, items }, index) => (
