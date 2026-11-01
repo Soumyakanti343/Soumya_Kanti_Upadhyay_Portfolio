@@ -4,7 +4,7 @@ export default function Education() {
   return (
     <section className="section section-muted" id="education">
       <div className="container">
-        <div className="section-heading"><p className="section-kicker">EDUCATION</p><h2>Building strong <span>foundations.</span></h2></div>
+        <div className="section-heading"><p className="section-kicker">05 / EDUCATION</p><h2>Building strong <span>foundations.</span></h2></div>
         <div className="education-grid">
           <article className="education-card">
             <span className="education-icon"><GraduationCap size={22} /></span>
