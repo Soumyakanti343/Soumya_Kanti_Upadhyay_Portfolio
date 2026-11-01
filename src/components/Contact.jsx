@@ -6,7 +6,7 @@ export default function Contact() {
       <div className="container">
         <div className="contact-panel">
           <div className="contact-copy">
-            <p className="section-kicker">06 / GET IN TOUCH</p>
+            <p className="section-kicker">GET IN TOUCH</p>
             <h2>Have an idea?<br /><span>Let’s build something.</span></h2>
             <p>I’m always happy to connect with people who enjoy technology, AI, and learning by building. Feel free to reach out.</p>
             <a className="button button-primary" href="mailto:upadhyaysoumyakanti@gmail.com">Send me an email <ArrowUpRight size={17} /></a>
