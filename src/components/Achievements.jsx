@@ -10,7 +10,7 @@ export default function Achievements() {
   return (
     <section className="section section-muted" id="achievements">
       <div className="container">
-        <div className="section-heading"><p className="section-kicker">ACHIEVEMENTS & LEARNING</p><h2>Milestones along <span>the way.</span></h2></div>
+        <div className="section-heading"><p className="section-kicker">07 / ACHIEVEMENTS & LEARNING</p><h2>Milestones along <span>the way.</span></h2></div>
         <div className="achievement-grid">
           {achievements.map(({ icon: Icon, title, detail }) => <article className="achievement-card" key={title}><span className="achievement-icon"><Icon size={21} /></span><h3>{title}</h3><p>{detail}</p></article>)}
         </div>
