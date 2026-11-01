@@ -4,7 +4,7 @@ const profiles = [
 {
 name: 'LeetCode',
 handle: 'SoumyaKanti16',
-rating: '2087',
+rating: '2115',
 label: 'Max rating · Knight',
 solved: '1,000+',
 href: 'https://leetcode.com/u/SoumyaKanti16/',
@@ -31,12 +31,12 @@ image: '/images/codeforces.png',
 ];
 
 export default function CodingProfiles() {
-return ( <section className="section" id="coding"> <div className="container"> <div className="section-heading section-heading-row"> <div> <p className="section-kicker">05 / PROBLEM SOLVING</p> <h2>
+return ( <section className="section" id="coding"> <div className="container"> <div className="section-heading section-heading-row"> <div> <p className="section-kicker">06 / PROBLEM SOLVING</p> <h2>
 Practice makes <span>progress.</span> </h2> </div>
       <p className="section-side-note">
-        Competitive programming keeps me curious,
+        Solving problems, learning new approaches,
         <br />
-        consistent, and comfortable with challenges.
+        and improving with every contest.
       </p>
     </div>
 
