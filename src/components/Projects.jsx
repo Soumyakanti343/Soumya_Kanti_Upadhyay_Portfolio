@@ -9,7 +9,7 @@ export default function Projects() {
       <div className="container">
         <div className="section-heading section-heading-row">
           <div><p className="section-kicker">03 / SELECTED WORK</p><h2>Things I’ve <span>built.</span></h2></div>
-          <p className="section-side-note">A mix of AI-powered applications, practical tools,<br />and small experiments made to learn by doing.</p>
+          <p className="section-side-note">Projects built to explore new ideas, apply what I learn,<br />and solve problems through hands-on experience.</p>
         </div>
         <div className="projects-grid">
           {projects.map((project, index) => {
