@@ -2,12 +2,13 @@ import { useState } from 'react';
 import { Menu, X, Code2 } from 'lucide-react';
 
 const links = [
-  ['About', '#about'],
-  ['Skills', '#skills'],
-  ['Projects', '#projects'],
-  ['Experience', '#experience'],
-  ['Coding', '#coding'],
-  ['Contact', '#contact']
+  ['About', '#about'], 
+  ['Skills', '#skills'], 
+  ['Projects', '#projects'], 
+  ['Experience', '#experience'], 
+  ['Education', '#education'], 
+  ['Coding', '#coding'], 
+  ['Achievements', '#achievements']
 ];
 
 export default function Navbar() {
