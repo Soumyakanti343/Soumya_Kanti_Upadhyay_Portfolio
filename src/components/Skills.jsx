@@ -13,7 +13,7 @@ export default function Skills() {
       <div className="container">
         <div className="section-heading section-heading-row">
           <div><p className="section-kicker">02 / TOOLKIT</p><h2>Skills I work <span>with.</span></h2></div>
-          <p className="section-side-note">The skills I’m building through continuous learning,</p><br />practice, and hands-on projects.</p>
+          <p className="section-side-note">The skills I’m building through continuous learning,<br />practice, and hands-on projects.</p>
         </div>
         <div className="skills-grid">
           {groups.map(({ icon: Icon, title, note, items }, index) => (
