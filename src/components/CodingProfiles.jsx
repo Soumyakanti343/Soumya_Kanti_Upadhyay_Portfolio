@@ -4,8 +4,8 @@ const profiles = [
 {
 name: 'LeetCode',
 handle: 'SoumyaKanti16',
-rating: '2115',
-label: 'Max rating · Knight',
+rating: '2127',
+label: 'Max rating · Guardian',
 solved: '1,000+',
 href: 'https://leetcode.com/u/SoumyaKanti16/',
 image: '/images/leetcode.png',
