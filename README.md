@@ -8,15 +8,51 @@ A responsive personal portfolio built with **React, Vite, and plain CSS**. It us
 ```text
 soumya_kanti_upadhyay-portfolio/
 ├── public/
-│   └── images/
+│   ├── certificates/
+│   │   ├── aincat.pdf
+│   │   ├── algouniversity.png
+│   │   ├── introduction-to-networking.pdf
+│   │   └── young-turks.pdf
+│   │
+│   ├── images/
+│   │   ├── ai-gym-trainer.png
+│   │   ├── codechef.png
+│   │   ├── codeforces.png
+│   │   ├── funquest.png
+│   │   ├── leetcode.png
+│   │   ├── ocean-freight.png
+│   │   ├── profile.png
+│   │   └── snapclass.png
+│   │
+│   ├── certificate.pdf
+│   └── resume.pdf 
+│
+│
 ├── src/
 │   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Achievements.jsx
+│   │   ├── CodingProfiles.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Education.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Projects.jsx
+│   │   └── Skills.jsx
+│   │
 │   ├── data/
-│   │   └── projects.js
+│   │   └── projects.js 
+│   │
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
+│
+│
+├── .gitignore
 ├── index.html
+├── package-lock.json
 ├── package.json
 └── README.md
 ```
