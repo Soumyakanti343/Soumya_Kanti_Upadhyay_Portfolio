@@ -1898,4 +1898,26 @@ h1 span,
 }
 
 
+/* =========================================================
+   20. Additional Achievement Section
+   ========================================================= */
+
+.achievement-certificate {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 14px;
+  font-size: 12px;
+}
+
+.achievement-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.achievement-card p {
+  flex-grow: 1;
+}
+
 
