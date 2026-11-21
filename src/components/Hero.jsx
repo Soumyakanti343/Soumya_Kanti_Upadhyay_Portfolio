@@ -39,7 +39,7 @@ export default function Hero() {
             </div>
           </div>
           <div className="float-chip chip-ai"><span className="chip-icon">✳</span><div><strong>AI / ML</strong><small>Build · Experiment · Learn</small></div></div>
-          <div className="float-chip chip-cp"><span className="chip-icon chip-icon-code">&lt;/&gt;</span><div><strong>Competitive Coding</strong><small>LeetCode Knight</small></div></div>
+          <div className="float-chip chip-cp"><span className="chip-icon chip-icon-code">&lt;/&gt;</span><div><strong>Competitive Coding</strong><small>LeetCode Guardian</small></div></div>
           <div className="hero-index"> <span></span> </div>
         </div>
       </div>
