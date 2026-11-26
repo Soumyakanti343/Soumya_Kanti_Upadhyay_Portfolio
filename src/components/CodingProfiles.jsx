@@ -13,7 +13,7 @@ image: '/images/leetcode.png',
 {
 name: 'CodeChef',
 handle: 'soumyakanti16',
-rating: '1667',
+rating: '1694',
 label: 'Max rating · ⭐⭐⭐',
 solved: '300+',
 href: 'https://www.codechef.com/users/soumyakanti16',
